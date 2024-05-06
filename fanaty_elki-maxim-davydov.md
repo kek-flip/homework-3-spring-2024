@@ -4,6 +4,8 @@
 
 ### Список каталогов
 
+#### URL https://ads.vk.com/hq/ecomm/catalogs
+
 <img src="screenshots/catalog_list.PNG" width=900>
 
 - Поиск каталогов. Поиск каталогов находит все каталоги, в названии которых есть вхождение поискового запроса.
@@ -12,6 +14,8 @@
 - Открытие настроек каталога. Настройки каталога открываются в боковом окне справа.
 
 ### Создание каталога
+
+#### URL https://ads.vk.com/hq/ecomm/catalogs
 
 <img src="screenshots/catalog_link_feed.PNG" width=500>
 <img src="screenshots/catalog_uploading_feed.PNG" width=500>
@@ -22,11 +26,15 @@
 
 ### Настройки каталога
 
+#### URL https://ads.vk.com/hq/ecomm/catalogs
+
 <img src="screenshots/catalog_settings.PNG" width=600>
 
 - Изменение имени каталога. После изменения имени каталога он отображается в списке с новым именем.
 
 ### Каталог. Список товаров
+
+#### URL https://ads.vk.com/hq/ecomm/catalogs/\[catalog_id\]
 
 <img src="screenshots/catalog_goods.PNG" width=700>
 
@@ -41,6 +49,8 @@
 
 ### Каталог. Группы
 
+#### URL https://ads.vk.com/hq/ecomm/catalogs/\[catalog_id\]/groups
+
 <img src="screenshots/catalog_groups.PNG" width=800>
 
 - Создание группы вручную. Группа состоит из выбранных товаров.
@@ -51,11 +61,15 @@
 
 ### Каталог. События
 
+#### URL https://ads.vk.com/hq/ecomm/catalogs/\[catalog_id\]/event
+
 <img src="screenshots/catalog_groups.PNG" width=800>
 
 - Добавление источника событий. После добавления пикселя он отображается в списке источников.
 
 ### Каталог. История загрузок
+
+#### URL https://ads.vk.com/hq/ecomm/catalogs/\[catalog_id\]/history
 
 <img src="screenshots/catalog_events.PNG" width=800>
 
@@ -66,6 +80,8 @@
 
 ### Настройка кампании
 
+#### URL https://ads.vk.com/hq/new_create/ad_plan
+
 <img src="screenshots/company_target.PNG" width=800>
 
 - Выбор рекламируемого объекта. После выбора рекламируемого объекта появляются настройки данного объекта.
@@ -74,6 +90,8 @@
 - Настройка баннерной рекламы. При вводе ссылки на сайт появляется выпадающий список с сайтами из одноименного раздела.
 
 ### Группа объявлений
+
+#### URL https://ads.vk.com/hq/new_create/ad_plan/\[target\]/ad_group/new-ad-group-form_\[group_id\]
 
 <img src="screenshots/ad_group_1.PNG" width=500>
 <img src="screenshots/ad_group_2.PNG" width=500>
@@ -89,6 +107,8 @@
 
 ### Объявления
 
+#### URL https://ads.vk.com/hq/new_create/ad_plan/\[target\]/ad_group/new-ad-group-form_\[group_id\]/ad/new-ad-form_\[ad_id\]
+
 <img src="screenshots/ad.PNG" width=700>
 
 - Заголовок. При попытке создать объявление без заголовка появляется сообщение об ошибке.
@@ -97,6 +117,8 @@
 ## Аудитории
 
 ### Аудитории
+
+#### URL https://ads.vk.com/hq/audience
 
 <img src="screenshots/aud.PNG" width=300>
 <img src="screenshots/aud_copy.PNG" width=300>
@@ -109,6 +131,8 @@
 
 ### Списки пользователей
 
+#### URL https://ads.vk.com/hq/audience
+
 <img src="screenshots/user_list.PNG" width=300>
 
 - Загрузка списка пользователей. Содержание списка пользователей совпадает с содержанием файлов.
@@ -116,6 +140,8 @@
 ## Бюджет
 
 ### Пополнение счета
+
+#### URL https://ads.vk.com/hq/budget/transactions
 
 <img src="screenshots/payment.PNG" width=300>
 <img src="screenshots/payment_sbp.PNG" width=300>
